@@ -1,6 +1,7 @@
 # Matthew Strong
 # The Energy Program, Volume 1.0
 # Computer Science Student in University of Colorado Boulder
+# Project for brief Python practice over the break
 
 
 
